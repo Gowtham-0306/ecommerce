@@ -59,7 +59,7 @@ export default function Productscard( { handlecart = () =>{} , name= String  , p
           </div>
       </div>
   </div>
-  {/* You can add more card elements here if needed */}
+  {/**/}
 </>
 
    
